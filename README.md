@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+* Hi 大家好哦
+* 我叫杨健辉，来自福建福州
+* 加油
 <!--
 **Ningchilema/Ningchilema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
